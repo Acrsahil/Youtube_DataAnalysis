@@ -1,0 +1,6 @@
+google-api-python-client
+pandas
+IPython
+isodate
+sqlalchemy
+pyodbc
